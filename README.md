@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbleal&label=Profile%20views&color=0e75b6&style=flat" alt="lbleal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/atay_yemre" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/atay_yemre?logo=twitter&style=for-the-badge" alt="https://twitter.com/atay_yemre" /></a> </p>
+<p align="left"> <a href="https://twitter.com/atay_yemre" target="blank"><img src="https://img.shields.io/twitter/follow/atay_yemre?logo=twitter&style=for-the-badge" alt="atay_yemre" /></a> </p>
 
 - 🌱 I’m currently learning **React, ReactNative, ASP.Net Core, JavaScript, Java, C#, PHP**
 
@@ -15,14 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/lbledal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/lbledal" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/atay_yemre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/atay_yemre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emreatay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emreatay/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:20399235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20399235" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/lemratal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/lemratal" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/yunusemre.atayy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yunusemre.atayy/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/lemratal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lemratal/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/yns_emreatay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yns_emreatay" height="30" width="40" /></a>
+<a href="https://codepen.io/lbledal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lbledal" height="30" width="40" /></a>
+<a href="https://twitter.com/atay_yemre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atay_yemre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emreatay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emreatay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20399235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20399235" height="30" width="40" /></a>
+<a href="https://kaggle.com/lemratal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lemratal" height="30" width="40" /></a>
+<a href="https://fb.com/yunusemre.atayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yunusemre.atayy" height="30" width="40" /></a>
+<a href="https://instagram.com/lemratal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lemratal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yns_emreatay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yns_emreatay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
