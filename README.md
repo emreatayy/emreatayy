@@ -1,7 +1,9 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](http://emreatay.ml/)
 <h1 align="center">Hi 👋, I'm Emre Atay</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-<img align="right alt="Coding" width="400" "src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47f1jaqy8o3xnrg4vk6b1i0n9cd50zmg7q71lxnx7m&rid=giphy.gif&ct=g">
+
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479num3tb2spu4vq8m41x531f25yky5m81ojtiwxbj&rid=giphy.gif&ct=g" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbledal&label=Profile%20views&color=0e75b6&style=flat" alt="lbledal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/atay_yemre" target="blank"><img src="https://img.shields.io/twitter/follow/atay_yemre?logo=twitter&style=for-the-badge" alt="atay_yemre" /></a> </p>
