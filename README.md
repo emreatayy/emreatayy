@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479num3tb2spu4vq8m41x531f25yky5m81ojtiwxbj&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e479num3tb2spu4vq8m41x531f25yky5m81ojtiwxbj&rid=giphy.gif&ct=g" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbledal&label=Profile%20views&color=0e75b6&style=flat" alt="lbledal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/atay_yemre" target="blank"><img src="https://img.shields.io/twitter/follow/atay_yemre?logo=twitter&style=for-the-badge" alt="atay_yemre" /></a> </p>
