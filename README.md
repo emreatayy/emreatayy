@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/atay_yemre" target="blank"><img src="https://img.shields.io/twitter/follow/atay_yemre?logo=twitter&style=for-the-badge" alt="atay_yemre" /></a> </p>
 
-- 🌱 I’m currently learning **React, ReactNative, ASP.Net Core, JavaScript, Java, C#, PHP**
+- 🌱 I’m currently learning **React, JavaScript, SQL**
 
 - 👨‍💻 All of my projects are available at [http://emreatay.ml/](http://emreatay.ml/)
 
